@@ -1,37 +1,122 @@
-## Welcome to GitHub Pages
+# 个人信息
 
-You can use the [editor on GitHub](https://github.com/wztan/wztan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 基本信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 基本信息：谭维珍，女，已婚，1990-05-07
+- 工作年限：6年
+- 期望职位：Web前端研发工程师
+- 期望薪资：18-20K（税前）
+- 期望城市：杭州
+- 到岗时间：1个月内
 
-### Markdown
+### 专业技能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [精通] Vue/Vuex/Vue-Router + ElementUI/MintUI/Vant
+- [精通] JQuery/Bootstrap
+- [精通] ES5、ES6、Less 
+- [熟悉] Spring/SpringMVC/MyBatis
+- [熟悉] GIT和SVN版本管理工具
+- [熟悉] Webpack/Grunt打包工具
+- [熟悉] 多种第三方地图、数据可视化工具使用
+- [了解] Mocha/Selenium，进行前端自动化测试
+- [了解] 数据结构和SQL操作
+- [职责] 前端研发小组管理，熟悉项目和流程管理
 
-```markdown
-Syntax highlighted code block
+### 工作经历
 
-# Header 1
-## Header 2
-### Header 3
+#### 软通动力技术服务有限公司杭州分公司（2014.12 至今）
 
-- Bulleted
-- List
+**前端研发工程师/前端研发小组组长**
 
-1. Numbered
-2. List
+外包于中国移动杭州研发中心，个人主要工作：
 
-**Bold** and _Italic_ and `Code` text
+1. [负责] 物联网及人工智能管理后台；
+2. [参与] APP中的H5页面（订购/活动）；
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 杭州酷跃科技有限公司 - 新浪微米项目组（2013.1 - 2014.12）
 
-### Jekyll Themes
+**Web前端研发工程师**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wztan/wztan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+新浪全资子公司，个人主要工作：
 
-### Support or Contact
+1. [负责] 社群、Feed流；
+2. [负责] H5活动和展示页面；
+3. [参与] 网页版即时通讯模块；
+4. [参与] CMS/OMS管理后台；
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### 主要项目经历
+
+#### 电商渠道智能设备管理系统（2018.7 - 2019.1）
+
+**项目介绍：**
+
+智能设备相关管理、RBAC权限管理、终端数据同步。
+
+**个人工作：**
+1. 从框架搭建到上线，独立完成整个项目的前端工作；
+2. 参与Java研发、配合联调；
+3. 负责前端功能测试，参与Bug管理；
+
+> **使用技术：**
+> SSM框架、Vue-Cli、Vue全家桶、Webpack、Less、ElementUI、百度地图API
+
+#### 省级智能家居平台-手机订购（2018.2 - 2018.7）
+
+**项目介绍：**
+
+中国移动和家亲APP内嵌Web项目，实现套餐展示和订购流程。
+
+**个人工作：**
+1. 参与项目模块研发，独立负责多个模块；
+2. 负责解决兼容性问题；
+
+> **使用技术：**
+> SSM框架、Vue-Cli、Vue全家桶、Webpack、Less、MintUI
+
+
+#### 多个物联网业务管理后台和运营管理后台（2015.4 - 2018.2）
+
+期间参与了包括运营、客户、内容管理等多个管理后台项目研发。个人多以项目成员身份参与研发，并在后期项目中，担任前端研发小组组长职务，管理人员和项目进度，进行Code Review。
+
+**工作内容：**
+
+1. 后台增删改查交互实现；
+2. 文件上传、图片在线裁剪+上传；
+3. 多种图表类型的数据可视化展示；
+4. 根据业务需求进行JQuery插件/Vue组件开发；
+5. 前端性能优化；
+
+> **使用技术：**
+> SSM框架、Vue-Cli、Webpack、Less、Vant、JQuery、Bootstrap、Echarts、Gulp、RequireJS等
+
+
+#### 新浪微米（2013.1 - 2014.12）
+
+**项目功能：**
+
+基于即时通讯和群组的社交软件，包括APP、网页端、CMS/OMS管理后台、H5活动页面等。
+
+**个人工作：**
+1. [负责] 网页版中群组社交、群组管理等多个模块研发，及内部消息同步处理；
+2. [负责] 网页版中用户Feed流、评论、点赞等功能研发；
+3. [负责] H5响应式活动页面搭建；
+3. [参与] 网页版即时通讯功能研发、多种消息处理、优化本地数据同步机制；
+4. [参与] 管理后台研发；
+5. [参与] 解决兼容性问题、优化前端页面性能；
+
+> **使用技术：**
+> Php CI框架、JQuery、Bootstrap、AngularJS等
+
+
+## 教育经历
+
+- **浙江大学**：2016.3 - 2018.7，人力资源管理，本科
+- **湖北民族学院**：2008.3 - 2011.3，计算机应用，大专
+
+
+## 联系方式
+
+- 手机/微信：18658175026
+- 邮箱：709333236@qq.com
